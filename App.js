@@ -6,5 +6,5 @@ const axios = window.axios;
 
 
 function getJSON() {
-    // console.log(axios);
-};
+    console.log(axios);
+}
