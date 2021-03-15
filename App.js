@@ -1,12 +1,18 @@
 import {
     html,
-    render
+    render,
+    useState,
+    useEffect
 } from "https://unpkg.com/htm/preact/standalone.module.js";
-const axios = window.axios;
+import { getData } from "./data.js";
 
 import Parent from "./Parent.js";
 
 function App() {
+
+  const [users, setUsers] = useState([]);
+
+
   return html` <${Parent} /> `;
 }
 

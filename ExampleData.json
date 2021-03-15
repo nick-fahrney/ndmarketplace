@@ -1,0 +1,58 @@
+[
+  {
+    "age": 32,
+    "name": "Bright Randolph",
+    "gender": "male",
+    "price": "$1764",
+    "email": "brightrandolph@isotronic.com",
+    "phone": "+1 (976) 443-3820"
+  },
+  {
+    "age": 30,
+    "name": "Hickman Knapp",
+    "gender": "male",
+    "price": "$3531",
+    "email": "hickmanknapp@isotronic.com",
+    "phone": "+1 (891) 476-3068"
+  },
+  {
+    "age": 29,
+    "name": "Yolanda Lester",
+    "gender": "female",
+    "price": "$535",
+    "email": "yolandalester@isotronic.com",
+    "phone": "+1 (842) 582-3207"
+  },
+  {
+    "age": 26,
+    "name": "Marguerite Mason",
+    "gender": "female",
+    "price": "$8688",
+    "email": "margueritemason@isotronic.com",
+    "phone": "+1 (821) 544-2266"
+  },
+  {
+    "age": 38,
+    "name": "Glass Mcdonald",
+    "gender": "male",
+    "price": "$3708",
+    "email": "glassmcdonald@isotronic.com",
+    "phone": "+1 (923) 514-3684"
+  },
+  {
+    "age": 38,
+    "name": "Bradford Cardenas",
+    "gender": "male",
+    "price": "$7329",
+    "email": "bradfordcardenas@isotronic.com",
+    "phone": "+1 (993) 480-2728"
+  },
+  {
+    "age": 27,
+    "name": "Beach Cain",
+    "gender": "male",
+    "price": "$8623",
+    "email": "beachcain@isotronic.com",
+    "phone": "+1 (884) 583-3482"
+  }
+]
