@@ -1,0 +1,66 @@
+.child {
+  position: relative;
+  top: 100;
+  float: right;
+  display: grid;
+  width: 80%;
+  /* Define Auto Row Size */
+  grid-auto-rows: 175px;
+  /* Define our columns */
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 1em;
+}
+
+.nav {
+  width: 75%;
+}
+.navigation {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  width: 75%;
+  list-style: none;
+  margin: 0;
+  position: relative;
+  top: 0;
+  float: left;
+}
+
+.navigation a {
+    text-decoration: none;
+    display: block;
+    padding: 1em;
+    color: black;
+}
+
+.search {
+  width: 25%;
+  float: right;
+  right: 0;
+  position: sticky;
+  top: 0;
+}
+
+.filter {
+  position: fixed;
+  float: left;
+  top: 25%;
+  width: 18%;
+
+}
+article{
+
+  border-radius: 10px;
+  padding: 20px;
+  color: #fff;
+  background-color: #55bbe9;
+}
+
+img{
+  position:relative;
+  top: 0;
+}
+
+* {
+  font-family: cursive;
+}
