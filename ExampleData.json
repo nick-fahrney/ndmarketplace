@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "image": 26,
+    "image": "./images/X360.jpeg",
     "title": "xbox 360",
     "itemType": "electronics",
     "price": "$8688",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "image": 38,
+    "image": "./images/NDSweatshirt.jpeg",
     "title": "nd sweatshirt-large",
     "itemType": "clothes",
     "price": "$3708",
@@ -45,7 +45,7 @@
   },
   {
     "id": 6,
-    "image": 38,
+    "image": "./images/Futon.jpeg",
     "title": "used futon",
     "itemType": "seating",
     "price": "$7329",
@@ -54,7 +54,7 @@
   },
   {
     "id": 7,
-    "image": 27,
+    "image": "./images/Biochem.jpeg",
     "title": "biochem textbook",
     "itemType": "books",
     "price": "$8623",
