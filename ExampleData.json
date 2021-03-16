@@ -1,58 +1,64 @@
 [
   {
-    "age": 32,
-    "name": "Bright Randolph",
-    "gender": "male",
+    "id": 1,
+    "image": "./images/samsungTV.jpeg",
+    "title": "Samsung TV",
+    "itemType": "electronics",
     "price": "$1764",
-    "email": "brightrandolph@isotronic.com",
-    "phone": "+1 (976) 443-3820"
+    "contact": "brightrandolph@isotronic.com",
+    "description": "50in 2017 samsung LED TV"
   },
   {
-    "age": 30,
-    "name": "Hickman Knapp",
-    "gender": "male",
+    "id": 2,
+    "image": "./images/dChair.jpeg",
+    "title": "desk chair",
+    "itemType": "seating",
     "price": "$3531",
-    "email": "hickmanknapp@isotronic.com",
-    "phone": "+1 (891) 476-3068"
+    "contact": "+1 (891) 476-3068",
+    "description": "lightly used desk chair, adjustable height"
   },
   {
-    "age": 29,
-    "name": "Yolanda Lester",
-    "gender": "female",
+    "id": 3,
+    "image": "./images/NDHat.jpeg",
+    "title": "nd baseball cap",
+    "itemType": "clothes",
     "price": "$535",
-    "email": "yolandalester@isotronic.com",
-    "phone": "+1 (842) 582-3207"
+    "contact": "yolandalester@isotronic.com",
+    "description": "blue nd baseball cap, unused"
   },
   {
-    "age": 26,
-    "name": "Marguerite Mason",
-    "gender": "female",
+    "id": 4,
+    "image": 26,
+    "title": "xbox 360",
+    "itemType": "electronics",
     "price": "$8688",
-    "email": "margueritemason@isotronic.com",
-    "phone": "+1 (821) 544-2266"
+    "contact": "+1 (821) 544-2266",
+    "description": "used Xbox 360 got newer console so just want to get it off my hands"
   },
   {
-    "age": 38,
-    "name": "Glass Mcdonald",
-    "gender": "male",
+    "id": 5,
+    "image": 38,
+    "title": "nd sweatshirt-large",
+    "itemType": "clothes",
     "price": "$3708",
-    "email": "glassmcdonald@isotronic.com",
-    "phone": "+1 (923) 514-3684"
+    "contact": "+1 (923) 514-3684"
   },
   {
-    "age": 38,
-    "name": "Bradford Cardenas",
-    "gender": "male",
+    "id": 6,
+    "image": 38,
+    "title": "used futon",
+    "itemType": "seating",
     "price": "$7329",
-    "email": "bradfordcardenas@isotronic.com",
-    "phone": "+1 (993) 480-2728"
+    "contact": "+1 (993) 480-2728",
+    "description": "lightly used futon, price negotiable"
   },
   {
-    "age": 27,
-    "name": "Beach Cain",
-    "gender": "male",
+    "id": 7,
+    "image": 27,
+    "title": "biochem textbook",
+    "itemType": "books",
     "price": "$8623",
-    "email": "beachcain@isotronic.com",
-    "phone": "+1 (884) 583-3482"
+    "contact": "beachcain@isotronic.com",
+    "description": "textbook for sophomore biochem"
   }
 ]

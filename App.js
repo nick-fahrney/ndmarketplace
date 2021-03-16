@@ -1,16 +1,20 @@
 import {
     html,
-    render,
-    useState,
-    useEffect
+    render
 } from "https://unpkg.com/htm/preact/standalone.module.js";
-import { getData } from "./data.js";
+import { getSellers } from "./data.js";
 
 import Parent from "./Parent.js";
 
 function App() {
 
-  const [users, setUsers] = useState([]);
+  //const [sellData, setSellData] = useState([]);
+
+  //useEffect(() => {
+  //  return getData().then((data) => {
+  //    setSellData(data);
+  //  });
+  //});
 
 
   return html` <${Parent} /> `;
